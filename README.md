@@ -1,6 +1,10 @@
 # TeamWin Recovery Project (TWRP) for Samsung Galaxy A06
 
-![TWRP](https://twrp.me/images/logo.png)
+<p align="center">
+  <img src="https://imgcdn.latestmodapks.com/api/resize?url=https://www.latestmodapks.com/wp-content/uploads/2022/04/twrp.png&width=160" alt="TWRP" width="120"/>
+</p>
+
+
 
 ## Device Information
 - **Device Name:** Samsung Galaxy A06  
